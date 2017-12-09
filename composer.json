@@ -4,7 +4,7 @@
   "type": "project",
   "description": "Telegram Bot",
   "require": {
-    "php": "7.1",
+    "php": ">=7.1",
     "longman/telegram-bot": "0.51.0"
   }
 }
