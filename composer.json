@@ -1,0 +1,10 @@
+{
+  "name": "dezmont765/chubby-duck-bot",
+  "license": "MIT",
+  "type": "project",
+  "description": "Telegram Bot",
+  "require": {
+    "php": "7.1",
+    "longman/telegram-bot": "0.51.0"
+  }
+}
